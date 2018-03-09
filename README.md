@@ -92,5 +92,4 @@ This layout:
  */
  ```
 
-Breathing:
 ![Breathing](/breathe.gif)
