@@ -1,5 +1,7 @@
 # The POANY Planck Layout
 
+Based and forked from : https://github.com/qmk/qmk_firmware/tree/master/keyboards/planck/keymaps/default
+
 This layout:
 - swaps GUI && ALT:
 ```
