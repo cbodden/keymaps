@@ -3,6 +3,8 @@
 
 #include "config_common.h"
 
+#define BACKLIGHT_BREATHING
+
 #ifdef AUDIO_ENABLE
     #define STARTUP_SONG SONG(PLANCK_SOUND)
     // #define STARTUP_SONG SONG(NO_SOUND)
